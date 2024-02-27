@@ -1,0 +1,121 @@
+.x {
+  position: absolute;
+  top: 11px;
+  left: 391px;
+  font-size: 12px;
+  font-weight: 900;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 26px;
+  cursor: pointer;
+}
+.label {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button-base {
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+}
+.button {
+  position: absolute;
+  top: 291px;
+  left: 148px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-firebrick-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--white);
+}
+.inserta-tu-nombre {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 161px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.nombre {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.nombre-wrapper {
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 247px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  color: var(--color-darkgray-100);
+}
+.inserta-tu-nombre-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.frame-wrapper {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  position: absolute;
+  top: 110px;
+  left: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.repite-la-cedula-wrapper {
+  position: absolute;
+  top: 209px;
+  left: 13px;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 247px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  color: var(--color-darkgray-100);
+}
+.x-parent {
+  position: relative;
+  background-color: #c2c2c2;
+  box-shadow: 0px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  width: 432px;
+  height: 368px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--body-md-semibold-size);
+  color: var(--color-black);
+  font-family: var(--body-md-semibold);
+}

@@ -1,0 +1,1619 @@
+.bg-icon {
+  position: absolute;
+  bottom: 22px;
+  left: -35.5px;
+  width: 1544px;
+  height: 817px;
+  object-fit: cover;
+}
+.background-child {
+  position: absolute;
+  top: 81px;
+  left: 18.5px;
+  width: 1439px;
+  height: 791px;
+}
+.xdsd-1-icon {
+  position: absolute;
+  top: 323px;
+  left: 644.5px;
+  border-radius: 74px;
+  width: 187px;
+  height: 273px;
+  object-fit: cover;
+}
+.label1 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button-base1 {
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+}
+.button2 {
+  position: absolute;
+  top: 664px;
+  left: 607.5px;
+  border-radius: var(--br-5xs);
+  background-color: #652727;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.background-item {
+  position: absolute;
+  top: 349px;
+  left: 509.5px;
+  border-radius: 55px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(51, 8, 8, 0.91) 26.5%,
+    rgba(0, 0, 0, 0) 33%,
+    rgba(27, 24, 24, 0.91) 81%
+  );
+  filter: blur(4px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 456px;
+  height: 195px;
+  opacity: 0.2;
+}
+.behelit-mangas {
+  position: absolute;
+  top: calc(50% - 85px);
+  left: calc(50% - 256px);
+  font-size: 64px;
+  letter-spacing: 0.12em;
+  line-height: 72px;
+  font-family: var(--font-krona-one);
+  color: #a81212;
+  text-align: left;
+  display: inline-block;
+  width: 572px;
+  height: 169px;
+  text-shadow:
+    3px 0 0 #000,
+    0 3px 0 #000,
+    -3px 0 0 #000,
+    0 -3px 0 #000;
+}
+.background {
+  position: absolute;
+  top: 0px;
+  left: -20.5px;
+  width: 1531px;
+  height: 920px;
+  overflow: hidden;
+}
+.logo-icon {
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  width: 128px;
+  height: 32px;
+  overflow: hidden;
+  display: none;
+}
+.label2 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.menu-item-default {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  cursor: pointer;
+}
+.nav-group {
+  position: absolute;
+  top: 3px;
+  left: 105px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.left-nav-child {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.left-nav {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: 302px;
+  width: 261px;
+  height: 33px;
+  overflow: hidden;
+}
+.button1 {
+  position: absolute;
+  top: 10px;
+  left: 1269.5px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-firebrick-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--body-md-semibold-size);
+  color: var(--white);
+}
+.image-1-icon {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  width: 76px;
+  height: 69px;
+  object-fit: cover;
+}
+.nav-item {
+  position: absolute;
+  top: 1.5px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+}
+.menu-item-default2 {
+  position: absolute;
+  top: 0px;
+  left: 73px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+}
+.menu-item-default3 {
+  position: absolute;
+  top: 0px;
+  left: 148px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+}
+.menu-item-default4 {
+  position: absolute;
+  top: 0px;
+  left: 223px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs);
+}
+.nav-group1 {
+  position: absolute;
+  top: 24px;
+  left: 61px;
+  width: 132px;
+  height: 31px;
+  overflow: hidden;
+}
+.label9 {
+  position: absolute;
+  top: 31px;
+  left: 574px;
+  line-height: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.navbar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--body-sm-semibold-size);
+  color: var(--neutral-900);
+}
+.hero-03 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--white);
+  width: 1433px;
+  height: 872px;
+  overflow: hidden;
+}
+.hero-03-wrapper {
+  position: relative;
+  width: 1433px;
+  height: 872px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+}
+.features-12-child {
+  position: absolute;
+  top: 211px;
+  left: -0.5px;
+  width: 1435px;
+  height: 167px;
+  mix-blend-mode: linear-burn;
+}
+.features-12-item {
+  position: absolute;
+  top: 530px;
+  left: -0.5px;
+  width: 1435px;
+  height: 167px;
+  mix-blend-mode: linear-burn;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon {
+  position: absolute;
+  top: 469px;
+  left: 1040px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon1 {
+  position: absolute;
+  top: 130px;
+  left: 430px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.mangas-destacados-de {
+  position: absolute;
+  top: calc(50% - 393px);
+  left: calc(50% - 699.25px);
+  font-size: var(--display-lg-bold-size);
+  letter-spacing: -0.02em;
+  line-height: 60px;
+  color: #6a2323;
+  display: inline-block;
+  width: 1391px;
+  height: 116px;
+  text-shadow:
+    1px 0 0 #080000,
+    0 1px 0 #080000,
+    -1px 0 0 #080000,
+    0 -1px 0 #080000;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon2 {
+  position: absolute;
+  top: 130px;
+  left: 50px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon3 {
+  position: absolute;
+  top: 130px;
+  left: 810px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon4 {
+  position: absolute;
+  top: 480px;
+  left: 280.5px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.da373f02c2cd65f5fe1ff8e994eb66-icon5 {
+  position: absolute;
+  top: 469px;
+  left: 660px;
+  border-radius: var(--br-146xl);
+  width: 354px;
+  height: 330px;
+  object-fit: cover;
+}
+.image-4-icon {
+  position: absolute;
+  top: 180px;
+  left: 147px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.image-6-icon {
+  position: absolute;
+  top: 180px;
+  left: 527.5px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.image-5-icon {
+  position: absolute;
+  top: 180px;
+  left: 910.5px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.image-7-icon {
+  position: absolute;
+  top: 530px;
+  left: 380.5px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.image-8-icon {
+  position: absolute;
+  top: 530px;
+  left: 761.5px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.image-9-icon {
+  position: absolute;
+  top: 530px;
+  left: 1140.5px;
+  width: 160px;
+  height: 230px;
+  object-fit: cover;
+}
+.iebrcrpxekuhw-1-icon {
+  position: absolute;
+  top: 137px;
+  left: 79.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.iosudbsjfarjd-1-icon {
+  position: absolute;
+  top: 137px;
+  left: 460.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.ij298aj5khicl-1-icon {
+  position: absolute;
+  top: 137px;
+  left: 843.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.ic47dk9usuqmb-1-icon {
+  position: absolute;
+  top: 487px;
+  left: 313.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.ibbqpfi8wquklw-1-icon {
+  position: absolute;
+  top: 487px;
+  left: 690.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.ibzfp2rtlzblxq-1-icon {
+  position: absolute;
+  top: 487px;
+  left: 1070.5px;
+  width: 147px;
+  height: 133px;
+  object-fit: cover;
+}
+.pngwing-1-icon {
+  position: absolute;
+  top: 360px;
+  left: 189.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngwing-2-icon {
+  position: absolute;
+  top: 360px;
+  left: 574.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngwing-3-icon {
+  position: absolute;
+  top: 360px;
+  left: 950.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngwing-4-icon {
+  position: absolute;
+  top: 706px;
+  left: 420.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngwing-5-icon {
+  position: absolute;
+  top: 706px;
+  left: 796.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngwing-6-icon {
+  position: absolute;
+  top: 706px;
+  left: 1176.5px;
+  width: 210px;
+  height: 150px;
+  object-fit: cover;
+}
+.dragon-ball-super {
+  margin-block-start: 0;
+  margin-block-end: 1px;
+  line-height: 16px;
+}
+.viewers {
+  margin: 0;
+  line-height: 12px;
+}
+.dragon-ball-super-container {
+  position: absolute;
+  top: 389px;
+  left: 189.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 210px;
+  height: 57px;
+}
+.jujutsu-kaisen-gege-container {
+  position: absolute;
+  top: 399px;
+  left: 574.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 210px;
+  height: 57px;
+}
+.viewers2 {
+  margin: 0;
+  line-height: 5px;
+}
+.boruto-masashi-kishimoto-container {
+  position: absolute;
+  top: 383px;
+  left: 961.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 190px;
+  height: 57px;
+}
+.one-piece-eiichiro-container {
+  position: absolute;
+  top: 747px;
+  left: 415.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 210px;
+  height: 57px;
+}
+.chainsaw-man-tatsuki-container {
+  position: absolute;
+  top: 747px;
+  left: 796.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 210px;
+}
+.my-hero-academia-container {
+  position: absolute;
+  top: 747px;
+  left: 1176.5px;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 210px;
+  height: 57px;
+}
+.features-12 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #979797;
+  width: 1432.5px;
+  height: 872px;
+}
+.features-12-wrapper {
+  position: relative;
+  width: 1432.5px;
+  height: 872px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--body-sm-semibold-size);
+  color: var(--color-black);
+  font-family: var(--font-krona-one);
+}
+.section-title {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 60px;
+}
+.description {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-lg-medium-size);
+  line-height: 28px;
+  color: var(--neutral-900);
+  display: none;
+}
+.section-heading {
+  position: absolute;
+  top: 26px;
+  left: 27.5px;
+  width: 488px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--display-lg-bold-size);
+}
+.logo-icon1 {
+  position: relative;
+  width: 128px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.left-nav1 {
+  position: absolute;
+  top: calc(50% - 355px);
+  left: 980.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-11-icon {
+  position: absolute;
+  top: 158px;
+  left: 58.5px;
+  width: 164px;
+  height: 237px;
+  object-fit: cover;
+}
+.image-12-icon {
+  position: absolute;
+  top: 158px;
+  left: 300.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-13-icon {
+  position: absolute;
+  top: 158px;
+  left: 533.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-14-icon {
+  position: absolute;
+  top: 158px;
+  left: 766.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-15-icon {
+  position: absolute;
+  top: 158px;
+  left: 999.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-16-icon {
+  position: absolute;
+  top: 158px;
+  left: 1232.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-23-icon {
+  position: absolute;
+  top: 467px;
+  left: 58.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-18-icon {
+  position: absolute;
+  top: 467px;
+  left: 300.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-19-icon {
+  position: absolute;
+  top: 467px;
+  left: 533.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-20-icon {
+  position: absolute;
+  top: 467px;
+  left: 766.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-21-icon {
+  position: absolute;
+  top: 467px;
+  left: 999.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.image-22-icon {
+  position: absolute;
+  top: 467px;
+  left: 1232.5px;
+  width: 164px;
+  height: 223px;
+  object-fit: cover;
+}
+.tokyo-ghoul {
+  position: absolute;
+  top: 381px;
+  left: 58.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.bleach {
+  position: absolute;
+  top: 381px;
+  left: 300.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.shojo-null {
+  position: absolute;
+  top: 381px;
+  left: 533.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.wild-strawberry {
+  position: absolute;
+  top: 381px;
+  left: 766.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.fire-punch {
+  position: absolute;
+  top: 381px;
+  left: 999.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.oshi-no-ko {
+  position: absolute;
+  top: 381px;
+  left: 1224.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.sakamoto-days {
+  position: absolute;
+  top: 690px;
+  left: 58.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.berserk {
+  position: absolute;
+  top: 690px;
+  left: 300.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.kagurabachi {
+  position: absolute;
+  top: 690px;
+  left: 533.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.dandadan {
+  position: absolute;
+  top: 690px;
+  left: 766.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.hells-paradise {
+  position: absolute;
+  top: 690px;
+  left: 999.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.stage-s {
+  position: absolute;
+  top: 690px;
+  left: 1232.5px;
+  line-height: 28px;
+  font-weight: 800;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.sui-ishida {
+  position: absolute;
+  top: 400px;
+  left: 58.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.tite-kubo {
+  position: absolute;
+  top: 400px;
+  left: 300.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.kanae-nakanishi {
+  position: absolute;
+  top: 400px;
+  left: 533.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.yuto-suzuki {
+  position: absolute;
+  top: 709px;
+  left: 58.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.kentaro-miura {
+  position: absolute;
+  top: 709px;
+  left: 300.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.takeru-hokazono {
+  position: absolute;
+  top: 709px;
+  left: 533.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.ire-yonemoto {
+  position: absolute;
+  top: 400px;
+  left: 766.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.tatsuki-fujimoto1 {
+  position: absolute;
+  top: 400px;
+  left: 999.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.aka-akasaka {
+  position: absolute;
+  top: 400px;
+  left: 1232.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.tatsu-yukinobu {
+  position: absolute;
+  top: 709px;
+  left: 766.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.yuji-kaku {
+  position: absolute;
+  top: 709px;
+  left: 999.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.tomoya-harikawa {
+  position: absolute;
+  top: 709px;
+  left: 1232.5px;
+  font-size: var(--font-size-2xs);
+  line-height: 28px;
+  font-weight: 200;
+  display: inline-block;
+  width: 108px;
+  height: 15px;
+}
+.testimonial-06 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(255, 0, 0, 0.14)),
+    #000;
+  width: 1442px;
+  height: 872px;
+  overflow: hidden;
+}
+.testimonial-06-wrapper {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1442px;
+  height: 872px;
+}
+.desktop-inner {
+  position: relative;
+  width: 1442px;
+  height: 872px;
+  flex-shrink: 0;
+  font-size: var(--font-size-smi);
+}
+.section-title1 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 60px;
+  display: inline-block;
+  width: 671px;
+}
+.section-heading1 {
+  position: absolute;
+  top: 20px;
+  left: 29.5px;
+  width: 601px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--display-lg-bold-size);
+  color: var(--color-black);
+}
+.desktop-1-child {
+  position: absolute;
+  top: 93px;
+  left: -0.5px;
+  background-color: var(--color-black);
+  width: 1443px;
+  height: 407px;
+}
+.image-25-icon {
+  position: absolute;
+  top: 570px;
+  left: 312.5px;
+  border-radius: 24px;
+  width: 409px;
+  height: 230px;
+  object-fit: cover;
+}
+.elden-ring-shadows {
+  position: absolute;
+  top: 570px;
+  left: 26.5px;
+  letter-spacing: -0.05em;
+  line-height: 36px;
+  display: inline-block;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-black);
+  width: 274px;
+  height: 161px;
+}
+.image-29-icon {
+  position: absolute;
+  top: 500px;
+  left: 730.5px;
+  width: 368px;
+  height: 250px;
+  object-fit: cover;
+}
+.store-badge-icon {
+  position: relative;
+  width: 135px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.store-badge-icon1 {
+  position: relative;
+  width: 135px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.app-badges {
+  overflow: hidden;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.app-badges-wrapper {
+  position: absolute;
+  top: calc(50% - 492px);
+  right: 71.5px;
+  width: 33px;
+  height: 69px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.menu-icon {
+  position: absolute;
+  top: 18px;
+  left: 1309.5px;
+  width: 55px;
+  height: 62px;
+}
+.la-esperada-expansin {
+  position: absolute;
+  top: 721px;
+  left: 26.5px;
+  font-size: var(--body-md-semibold-size);
+  letter-spacing: -0.05em;
+  line-height: 33px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 269px;
+  height: 98px;
+}
+.actualidad {
+  position: absolute;
+  top: 512px;
+  left: 26.5px;
+  font-size: 40px;
+  letter-spacing: -0.05em;
+  line-height: 36px;
+  font-weight: 600;
+  color: #d92e2e;
+  display: inline-block;
+  width: 292px;
+  height: 37px;
+}
+.image-28-icon {
+  position: absolute;
+  top: 500px;
+  left: 1098.5px;
+  width: 342px;
+  height: 250px;
+  object-fit: cover;
+}
+.image-30-icon {
+  position: absolute;
+  top: 750px;
+  left: 730.5px;
+  width: 368px;
+  height: 274px;
+  object-fit: cover;
+}
+.image-31-icon {
+  position: absolute;
+  top: 750px;
+  left: 1098.5px;
+  width: 339px;
+  height: 274px;
+  object-fit: cover;
+}
+.bandai-namco-anuncia {
+  position: absolute;
+  top: 681px;
+  left: 746.5px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.dragon-ball-super1 {
+  position: absolute;
+  top: 685px;
+  left: 1110.5px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.kagurabachi-el-manga {
+  position: absolute;
+  top: 949px;
+  left: 746.5px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.captulo-95-de {
+  position: absolute;
+  top: 953px;
+  left: 1110.5px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.hidetaka-miyazaki {
+  font-weight: 800;
+  font-family: var(--body-md-semibold);
+}
+.y {
+  font-weight: 600;
+  font-family: var(--body-md-semibold);
+}
+.hay-muchos-detalles {
+  font-weight: 600;
+}
+.hidetaka-miyazaki-y-fromsoftwa {
+  margin: 0;
+}
+.blank-line6 {
+  margin: 0;
+  font-weight: 600;
+}
+.hidetaka-miyazaki-y-container {
+  position: absolute;
+  top: 840px;
+  left: 26.5px;
+  font-size: var(--body-md-semibold-size);
+  letter-spacing: -0.05em;
+  line-height: 33px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 664px;
+  height: 141px;
+}
+.image-24-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1381px;
+  height: 367px;
+  object-fit: cover;
+}
+.esta-obra-de {
+  position: absolute;
+  top: 312px;
+  left: 14px;
+  letter-spacing: -0.02em;
+  line-height: 60px;
+  display: inline-block;
+  width: 1005px;
+  height: 24px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.kowloon-generic-romance {
+  position: absolute;
+  top: 270px;
+  left: 14px;
+  font-size: var(--display-lg-bold-size);
+  letter-spacing: -0.02em;
+  line-height: 60px;
+  display: inline-block;
+  width: 1122px;
+  height: 53px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.group-child {
+  position: absolute;
+  top: 166px;
+  left: 14px;
+  width: 24px;
+  height: 35px;
+  object-fit: contain;
+}
+.group-item {
+  position: absolute;
+  top: 166px;
+  left: 1343px;
+  width: 24px;
+  height: 35px;
+}
+.image-24-parent {
+  position: relative;
+  width: 1381px;
+  height: 367px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 110px;
+  left: 30.5px;
+  width: 1381px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 20px;
+}
+.desktop-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: conic-gradient(
+      from 180.39deg at 50% 50%,
+      rgba(255, 255, 255, 0.06) 0deg,
+      rgba(0, 0, 0, 0.2) 360deg
+    ),
+    #fff;
+  width: 1442px;
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-1-wrapper {
+  position: relative;
+  width: 1442px;
+  height: 1024px;
+  flex-shrink: 0;
+  font-size: var(--font-size-5xl);
+}
+.los-mangas-son-container {
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 181px);
+  left: 57px;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 500px;
+  height: 169px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.otros-estilos-como {
+  position: absolute;
+  margin: 0 !important;
+  top: 389px;
+  left: 997px;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 420px;
+  height: 155px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.group-inner {
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  width: 438px;
+  height: 97px;
+  mix-blend-mode: linear-burn;
+}
+.c0d85e44f8920d2145d0807b88f54-icon {
+  position: absolute;
+  top: 0px;
+  left: 266px;
+  width: 112px;
+  height: 168px;
+  object-fit: cover;
+}
+.eaa1c82182e5e22ec49f38-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 154px;
+  width: 112px;
+  height: 168px;
+  object-fit: cover;
+}
+.bf9aa875ee0d8bd8a486f5ad1ab869-icon {
+  position: absolute;
+  top: 0px;
+  left: 42px;
+  width: 112px;
+  height: 168px;
+  object-fit: cover;
+}
+.vector-parent {
+  position: absolute;
+  margin: 0 !important;
+  top: 202px;
+  left: 997px;
+  width: 438px;
+  height: 168px;
+  z-index: 2;
+}
+.cta-06-child {
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  left: 715px;
+  background-color: var(--color-black);
+  width: 135px;
+  height: 558px;
+  z-index: 3;
+}
+.dragon-ball-mejores-momentos-m-icon {
+  position: absolute;
+  top: 170px;
+  left: 0px;
+  width: 230px;
+  height: 329px;
+  object-fit: cover;
+}
+.berserk-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 170px;
+  object-fit: cover;
+}
+.m15-1-icon {
+  position: absolute;
+  top: 170px;
+  left: 230px;
+  width: 166px;
+  height: 212px;
+  object-fit: cover;
+}
+.gantz-manga-1-icon {
+  position: absolute;
+  top: 382px;
+  left: 230px;
+  width: 166px;
+  height: 117px;
+  object-fit: cover;
+}
+.dragon-ball-mejores-momentos-m-parent {
+  position: absolute;
+  margin: 0 !important;
+  top: 28px;
+  left: 575px;
+  width: 396px;
+  height: 499px;
+  z-index: 4;
+}
+.la-cantidad-de {
+  position: absolute;
+  margin: 0 !important;
+  top: 13px;
+  left: 1012px;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 373px;
+  height: 170px;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.cta-06 {
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 0, 0, 0.2),
+      rgba(10, 0, 0, 0.2) 95%,
+      rgba(10, 0, 0, 0.2) 95%,
+      rgba(31, 0, 0, 0.2) 97.5%,
+      rgba(10, 0, 0, 0.2) 99.96%,
+      rgba(14, 0, 0, 0.2) 99.97%,
+      rgba(51, 0, 0, 0.2) 99.98%,
+      rgba(19, 0, 0, 0.2) 99.99%,
+      rgba(19, 0, 0, 0.2) 99.99%,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    #9d3d3d;
+  width: 1435px;
+  height: 558px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 112px;
+  box-sizing: border-box;
+  gap: 32px;
+}
+.frame-child {
+  position: absolute;
+  top: 558px;
+  left: 3px;
+  background-color: var(--color-black);
+  width: 1435px;
+  height: 285px;
+}
+.web-logo-190118-light-txt-1-icon {
+  position: absolute;
+  top: 726px;
+  left: 247px;
+  width: 195px;
+  height: 103px;
+  object-fit: cover;
+}
+.ninemanga-1-icon {
+  position: absolute;
+  top: 753px;
+  left: 608px;
+  width: 200px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-35-icon {
+  position: absolute;
+  top: 748px;
+  left: 903px;
+  width: 459px;
+  height: 59px;
+  object-fit: cover;
+}
+.cta-06-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 843px;
+  color: var(--color-black);
+}
+.content {
+  position: absolute;
+  top: calc(50% - 384.5px);
+  left: 72px;
+  width: 688px;
+  overflow: hidden;
+}
+.dragon-ball-1984 {
+  position: absolute;
+  top: 500px;
+  left: 635px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.gantz-2000 {
+  position: absolute;
+  top: 500px;
+  left: 876px;
+  font-size: var(--body-sm-semibold-size);
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.berserk-1989 {
+  position: absolute;
+  top: 174px;
+  left: 838px;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 304px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.shingeki-no-kyojin-container {
+  position: absolute;
+  top: 367px;
+  left: 815px;
+  font-size: var(--body-sm-semibold-size);
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  display: inline-block;
+  width: 282px;
+  height: 46px;
+  text-shadow:
+    1px 0 0 #000,
+    0 1px 0 #000,
+    -1px 0 0 #000,
+    0 -1px 0 #000;
+}
+.section-title2 {
+  position: absolute;
+  top: 37px;
+  left: 60px;
+  font-size: var(--display-lg-bold-size);
+  letter-spacing: -0.02em;
+  line-height: 45px;
+  display: inline-block;
+  width: 688px;
+  text-shadow:
+    0.8px 0 0 #000,
+    0 0.8px 0 #000,
+    -0.8px 0 0 #000,
+    0 -0.8px 0 #000;
+}
+.frame-parent {
+  position: relative;
+  width: 1441px;
+  height: 843px;
+  flex-shrink: 0;
+  font-size: var(--body-lg-medium-size);
+}
+.desktop {
+  position: relative;
+  background-color: var(--white);
+  width: 1433px;
+  height: 4483px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--body-md-semibold-size);
+  color: var(--white);
+  font-family: var(--body-md-semibold);
+}

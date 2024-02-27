@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Otro Proyecto",
+    "id": "65dd53f7f6711207e4d42291",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\PC\\Desktop\\PROYECTO-POKEMON-2\\Pagina-Manga\\src\\components",
+    "screensPath": "c:\\Users\\PC\\Desktop\\PROYECTO-POKEMON-2\\Pagina-Manga\\src\\pages"
+  }
+}
